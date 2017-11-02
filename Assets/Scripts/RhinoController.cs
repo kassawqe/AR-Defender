@@ -5,7 +5,7 @@ using UnityEngine.AI;
 using UnityEngine.UI;
 public class RhinoController : MonoBehaviour
 {
-    //常數宣告
+    //常數宣告--------
     private string roarTrigger = "roar";
     private string crystalTag = "crystal";
     private string deadTrigger = "dead";
